@@ -7,8 +7,8 @@ import datetime
 import os
 import time
 
-# pw1='xm111737' # 授权码
-pw2='Xm111737'
+# pw1='iwwwkw' # 授权码
+pw2='872112' #  
 
 # # set sender mailbox
 # sender_domain='smtp.sina.cn'
